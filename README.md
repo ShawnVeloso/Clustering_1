@@ -1,8 +1,12 @@
-# Clustering_1
-TTE-v2.ipynb - main submission
-TTE.ipynb - Replication from R to Python
+# Clustering_1  
 
-(Resources Used)
-trial_itt
-trial_pp
-Data_Censored
+## Files and Submissions  
+
+- **TTE-v2.ipynb** – Main submission integrating clustering into Target Trial Emulation (TTE).  
+- **TTE.ipynb** – Replication of R code to Python for baseline comparison.  
+
+## Resources Used  
+
+- **trial_itt** – Intention-to-treat analysis dataset.  
+- **trial_pp** – Per-protocol analysis dataset.  
+- **Data_Censored** – Preprocessed dataset used for clustering and survival analysis.  
